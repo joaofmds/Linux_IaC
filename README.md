@@ -28,7 +28,7 @@ Para usar o porjeto, siga estas etapas:
 * Execute o script: './iac1.sh'
 ```
 
-## 📫 Contribuindo para o porjeto
+## 📫 Contribuindo para o projeto
 
 ### Ajustes e melhorias
 
@@ -49,5 +49,3 @@ Para contribuir com projeto, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-[⬆ Voltar ao topo](#Linux_IaC)<br>
